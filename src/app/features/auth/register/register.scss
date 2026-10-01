@@ -1,0 +1,22 @@
+.register-page {
+min-height: 100vh;
+  display: flex;
+   
+  justify-content: center;
+  align-items: center;
+  background-color: #f5f7fa;
+}
+
+.register-card {
+  width: 650px;
+  gap: 16px;
+  padding: 30px;
+  border-radius: 12px;
+}
+
+.form-row,
+.full-width{
+    display: flex;
+  gap: 8px;
+}
+
